@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (max-width: 640px) {
+    .slick-slider {
+      .slick-slide {
+        width: 100%; /* Show 1 slide at a time on mobile */
+        margin: 0 auto;
+      }
+    }
+  }
