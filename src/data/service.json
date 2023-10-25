@@ -1,0 +1,103 @@
+{
+  "page": "service-registration",
+  "title": "Biker Service. Miles of Trust, Roads to Success.",
+  "listItems": [
+    "Biker services promote eco-friendly transportation by using bicycles or electric bikes for delivery or transportation purposes.",
+    "Biker services promote eco-friendly transportation by using bicycles or electric bikes for delivery or transportation purposes."
+  ],
+  "why": "Why choose BikerService?",
+  "content": "BikerService has helped over 10,000+ businesses in India. Connect with us to make your stressful Legal process simple.",
+  "overview": [
+    {
+      "title": "Overview of Biker Service",
+      "heading": "What is Biker Service?",
+      "content": "Biker Service is a comprehensive process that involves the inspection and maintenance of motorcycles to ensure they are in optimal condition. It covers various aspects, including engine health, tire condition, brake performance, electrical systems, and more. Biker Service aims to keep bikes safe, reliable, and performing at their best. Regular Biker Service helps prevent breakdowns, enhances ride quality, and extends the lifespan of motorcycles, making it essential for bike owners and enthusiasts.",
+      "advantages": [
+        "<b>Maintaining Bike Performance:</b> Biker Service ensures that your motorcycle operates at its peak performance levels, providing a smoother and safer ride.",
+        "<b>Preventing Costly Repairs:</b> Regular servicing helps identify and address potential issues early, saving you money on expensive repairs down the road.",
+        "<b>Extending Bike Lifespan:</b> Proper maintenance through Biker Service can significantly extend the life of your motorcycle, maximizing its value.",
+        "<b>Enhancing Safety:</b> Keeping your bike well-maintained through Biker Service contributes to safer rides and reduces the risk of accidents.",
+        "<b>Resale Value:</b> A well-maintained bike has a higher resale value. Biker Service helps you maintain your bike's value for future resale or trade-ins."
+      ]
+    }
+  ],
+  "Slider": [
+    [
+      {
+        "imageUrl": "url_to_image_1.jpg",
+        "content1": "Content 1 for card 1",
+        "content2": "Content 2 for card 1"
+      },
+      {
+        "imageUrl": "url_to_image_2.jpg",
+        "content1": "Content 1 for card 2",
+        "content2": "Content 2 for card 2"
+      },
+      {
+        "imageUrl": "url_to_image_2.jpg",
+        "content1": "Content 1 for card 3",
+        "content2": "Content 2 for card 3"
+      },
+      {
+        "imageUrl": "url_to_image_2.jpg",
+        "content1": "Content 1 for card 4",
+        "content2": "Content 2 for card 4"
+      }
+    ]
+  ],
+  "process": [
+    {
+      "title": "Inspect Bike Service Records",
+      "content": "Examine the service records of the bikes to assess their maintenance history and any past issues. This helps in identifying areas that may require special attention during the Biker Service."
+    },
+    {
+      "title": "Check Service Equipment and Tools",
+      "content": "Verify the availability and condition of service equipment and tools. Ensuring that the service station has the necessary tools and machinery is crucial for delivering high-quality Biker Service."
+    },
+    {
+      "title": "Evaluate Staff Expertise",
+      "content": "Assess the qualifications and experience of the service station's staff, including mechanics and technicians. Skilled and certified professionals contribute to the quality of Biker Service."
+    },
+    {
+      "title": "Review Safety Protocols",
+      "content": "Ensure that the service station follows strict safety protocols and maintains a safe working environment. Safety is paramount, both for the staff and customers."
+    },
+    {
+      "title": "Assess Customer Feedback",
+      "content": "Look for customer reviews and feedback about the Biker Service station. Positive reviews are indicative of good service quality and customer satisfaction."
+    },
+    {
+      "title": "Confirm Licensing and Certifications",
+      "content": "Check if the service station holds the necessary licenses and certifications required for bike servicing. Proper licensing ensures adherence to industry standards."
+    },
+    {
+      "title": "Inspect Facility Cleanliness",
+      "content": "Visit the service station to evaluate its cleanliness and organization. A clean and well-maintained facility reflects professionalism and attention to detail."
+    }
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "R C Book",
+    "Driving License",
+    "Insurance Copy"
+  ],
+  "didyouknow": [
+    "Did you know that regular maintenance of your bike can significantly extend its lifespan and improve its performance? <br/><a href='#'>Learn more</a>",
+    "Routine servicing and inspections can help you enjoy a smoother and safer ride, saving you money on costly repairs in the long run."
+  ],
+  "faqtitle": "Frequently asked questions",
+  "faq": [
+    {
+      "question": "What services does the Biker Service Station offer?",
+      "answer": "Our Biker Service Station offers a range of services, including oil changes, tire replacements, brake inspections and repairs, engine tune-ups, chain and sprocket replacements, electrical system checks, customization, and 24/7 emergency roadside assistance."
+    },
+    {
+      "question": "How can I book a service at the Biker Service Station?",
+      "answer": "Booking a service is easy. You can visit our station in person or call our hotline to schedule an appointment. We also offer online booking through our website."
+    },
+    {
+      "question": "What are the operating hours of the Biker Service Station?",
+      "answer": "Our Biker Service Station operates from Monday to Saturday, from 9 AM to 6 PM. For emergency roadside assistance, we are available 24/7."
+    }
+  ]
+}

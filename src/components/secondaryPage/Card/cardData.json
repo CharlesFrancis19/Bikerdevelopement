@@ -1,0 +1,22 @@
+[
+  {
+    "imageUrl": "./client.svg",
+    "content1": "3,000+",
+    "content2": "Happy Clients"
+  },
+  {
+    "imageUrl": "./cases-solved.svg",
+    "content1": "5,234+",
+    "content2": "Bikes Repaired"
+  },
+  {
+    "imageUrl": "./money-recovered.svg",
+    "content1": "5,133+",
+    "content2": "Bikes Sold"
+  },
+  {
+    "imageUrl": "./time.svg",
+    "content1": "40,000+",
+    "content2": "On time delivery"
+  }
+]
